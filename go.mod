@@ -1,4 +1,4 @@
-module github.com/sbhagate-infoblox/protoc-gen-gorm
+module github.com/infobloxopen/protoc-gen-gorm
 
 require (
 	github.com/golang-jwt/jwt/v4 v4.4.1
